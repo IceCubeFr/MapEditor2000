@@ -1,6 +1,7 @@
 # MapEditor2000
 Vous avez toujours rêvé de pouvoir modifier la map vous même ? Et bien c'est maintenant possible !  
 Grâce à MapEditor2000, importez vos propres bâtiments depuis l'assetstore Unity, supprimez les bâtiments existants, créez des routes et bien plus encore !  
+**Crédits :** Idée originale de EmileNkz, Développement et conception par IceCubeFr (c mwa), image générée avec Ideogram
 ![](a-3d-illustration-of-a-futuristic-interf_HKFKukBcQTuGKdtgUoL4ZQ_HpFTywE8SbiFllRAT821Fg.jpeg)
 
 # Fonctionnalités
